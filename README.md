@@ -18,5 +18,5 @@ Greatest increase in Profit/Losses (date and amount) over the entire period.
 Greatest decrease in Profit/Losses (date and amount) over the entire period.
 Console Output:
 
-Live Application: Console Finances - Live Demo
+Live Application: Console Finances - Live Demo - https://samgreenfairyx.github.io/ConsoleFinances/
 
