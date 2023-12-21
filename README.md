@@ -20,3 +20,4 @@ Console Output:
 
 Live Application: Console Finances - Live Demo - https://samgreenfairyx.github.io/ConsoleFinances/
 
+![image](https://github.com/Samgreenfairyx/ConsoleFinances/assets/150940744/2c33d44b-c40c-44a3-88a0-90d0d7832c96)
